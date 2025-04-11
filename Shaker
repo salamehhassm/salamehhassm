@@ -330,3 +330,12 @@ const OrderSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Order', OrderSchema);
+<!DOCTYPE html>
+   <html>
+   <head>
+       <title>تطبيق Shaker</title>
+   </head>
+   <body>
+       <h1>مرحبًا! التطبيق يعمل الآن 🎉</h1>
+   </body>
+   </html>
